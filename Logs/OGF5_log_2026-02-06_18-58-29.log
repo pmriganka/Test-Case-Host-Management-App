@@ -1,0 +1,30 @@
+2026-02-06 18:58:29,707 - INFO - ------------- Start of Script --------------
+2026-02-06 18:58:34,277 - INFO - DEBUG: Found folder 'OGF5' in vCenter: l5h629047.hop.lab.emc.com
+2026-02-06 18:58:34,278 - INFO - Details found in vCenter : l5h629047.hop.lab.emc.com
+2026-02-06 18:58:34,506 - INFO - DEBUG: Searching for hosts and VMs in folder: OGF5
+2026-02-06 18:58:35,191 - INFO - DEBUG: Found 0 entities in container view
+2026-02-06 18:58:35,192 - INFO - DEBUG: Total hosts found: 0
+2026-02-06 18:58:35,192 - INFO - DEBUG: Total VMs found: 0
+2026-02-06 18:58:35,193 - INFO -  Fetching the details below ............... 
+2026-02-06 18:58:35,193 - INFO -  List of ESX Hosts for OGF5:
+2026-02-06 18:58:35,193 - INFO -  List of VMs for OGF5:
+2026-02-06 18:58:35,194 - INFO -  Fetching the VM IPs ....
+2026-02-06 18:58:35,194 - INFO -  Fetching the credentials for the VMs .....
+2026-02-06 18:58:39,282 - ERROR - Error Occurred during aclx db restore : [Errno None] Unable to connect to port 22 on 127.0.0.1 or ::1
+2026-02-06 18:58:39,282 - INFO - ------------- End of Script --------------
+2026-02-06 19:16:08,528 - INFO - ------------- Start of Script --------------
+2026-02-06 19:16:13,574 - INFO - DEBUG: Found folder 'OGF5' in vCenter: l5h629047.hop.lab.emc.com
+2026-02-06 19:16:13,574 - INFO - Details found in vCenter : l5h629047.hop.lab.emc.com
+2026-02-06 19:16:13,849 - INFO - DEBUG: Searching for hosts and VMs in folder: OGF5
+2026-02-06 19:16:14,943 - INFO - DEBUG: Folder path: datastore
+2026-02-06 19:16:15,492 - INFO - DEBUG: Direct children in folder: 0
+2026-02-06 19:16:16,313 - INFO - DEBUG: Found 0 entities in container view
+2026-02-06 19:16:16,313 - INFO - DEBUG: Total hosts found: 0
+2026-02-06 19:16:16,313 - INFO - DEBUG: Total VMs found: 0
+2026-02-06 19:16:16,313 - INFO -  Fetching the details below ............... 
+2026-02-06 19:16:16,314 - INFO -  List of ESX Hosts for OGF5:
+2026-02-06 19:16:16,314 - INFO -  List of VMs for OGF5:
+2026-02-06 19:16:16,314 - INFO -  Fetching the VM IPs ....
+2026-02-06 19:16:16,314 - INFO -  Fetching the credentials for the VMs .....
+2026-02-06 19:16:20,426 - ERROR - Error Occurred during aclx db restore : [Errno None] Unable to connect to port 22 on 127.0.0.1 or ::1
+2026-02-06 19:16:20,426 - INFO - ------------- End of Script --------------

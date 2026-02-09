@@ -1,0 +1,46 @@
+[
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://qtest.gtie.dell.com/api/v3/projects/442/test-cases/7183940/test-steps/26647079"
+            },
+            {
+                "rel": "attachments",
+                "href": "http://qtest.gtie.dell.com/api/v3/projects/442/test-steps/26647079/attachments"
+            }
+        ],
+        "id": 26647079,
+        "description": "<p>yugyugyjgygygyugyukgyug</p>",
+        "expected": "",
+        "order": 1,
+        "attachments": [
+            {
+                "links": [
+                    {
+                        "rel": "self",
+                        "href": "http://qtest.gtie.dell.com/api/v3/projects/442/test-steps/26647079/attachments/9107111"
+                    },
+                    {
+                        "rel": "author",
+                        "href": "http://qtest.gtie.dell.com/api/v3/users/12502"
+                    }
+                ],
+                "name": "sample.txt",
+                "content_type": "text/plain",
+                "id": 9107111,
+                "web_url": "https://qtest.gtie.dell.com/p/442/portal/attachment/teststep/attachmentId/9107111",
+                "created_date": "2025-11-11T11:52:04+00:00",
+                "author": {
+                    "id": 12502,
+                    "email": "Mriganka.Paul@dell.com",
+                    "first_name": "Mriganka",
+                    "last_name": "Paul"
+                },
+                "artifact_id": 26647079
+            }
+        ],
+        "group": 1,
+        "plain_value_text": "<p>yugyugyjgygygyugyukgyug</p>"
+    }
+]
